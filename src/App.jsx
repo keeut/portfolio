@@ -10,7 +10,7 @@ const App = () => {
 
 
     return (
-        <div>
+        <div className={styles.container}>
             {/* <div className={styles.effect}></div> */}
             <Header/>
             <Intro/>

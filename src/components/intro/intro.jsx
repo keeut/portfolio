@@ -8,11 +8,11 @@ const Intro = (props) => {
     <div className={styles.container}>
         <div className={styles.title}>
             <div>김태남</div>
-            <div>신입 웹 개발자</div>
-            <div>포트폴리오</div>
+            <div>웹 개발자</div>
         </div>
-        <div className={styles.explain}>마우스를 올려주세요</div>
-
+        <div className={styles.explanation}>
+                저는 현재는 REACT를 주로 사용하는, 성장을 갈구하는 신입 개발자입니다.
+        </div>
         <div className={styles.container_circle}>
             <div className={styles.box_1}>who are you</div>
             <div className={styles.box_2}>skills</div>

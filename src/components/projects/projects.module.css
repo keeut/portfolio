@@ -1,0 +1,9 @@
+.article{
+    background-color: rgb(114, 128, 247);
+    height: 100vh;
+}
+.container{
+    position: relative;
+    width:90vw;
+    left:5vw;
+}

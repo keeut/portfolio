@@ -1,0 +1,39 @@
+.article{
+    background-color: rgb(247, 197, 35);
+    height: 100vh;
+}
+.container{
+    position: relative;
+    width: 90vw;
+    max-width: 80em;
+    margin: 0 auto;
+}
+.text{
+    position: absolute;
+    padding : 2em 1em 2em 1em;
+    background-color: white;
+    width:40%;
+    top: 3rem;
+    right: 4rem;
+    font-size: 1.3rem;
+    border-radius: 4%;
+    box-shadow : 5px 5px 10px grey;
+}
+.img{
+    position: absolute;
+    padding : 2em 1em 2em 1em;
+    background-color: white;
+    width:40%;
+    top: 3rem;
+    left: 4rem;
+    height: 30em;
+    border-radius: 4%;
+    box-shadow : 5px 5px 10px grey;
+
+}
+.button{
+    margin-left: 1em;
+    background-color: black;
+    color:white;
+    cursor: pointer;
+}
